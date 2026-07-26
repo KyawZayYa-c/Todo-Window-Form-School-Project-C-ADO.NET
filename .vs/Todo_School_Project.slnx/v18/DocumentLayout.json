@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|d:\\kyaw zay ya written project\\c#project\\todo_school_project\\todo_school_project\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\todo_school_project\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|d:\\kyaw zay ya written project\\c#project\\todo_school_project\\todo_school_project\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\todo_school_project\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|d:\\kyaw zay ya written project\\c#project\\todo_school_project\\todo_school_project\\admindashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\admindashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|d:\\kyaw zay ya written project\\c#project\\todo_school_project\\todo_school_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|d:\\kyaw zay ya written project\\c#project\\todo_school_project\\todo_school_project\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|d:\\kyaw zay ya written project\\c#project\\todo_school_project\\todo_school_project\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\todo_school_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\todo_school_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|d:\\kyaw zay ya written project\\c#project\\todo_school_project\\todo_school_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|d:\\kyaw zay ya written project\\c#project\\todo_school_project\\todo_school_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F7142B-BCA8-BF37-CF5F-9B897EB7EA6E}|Todo_School_Project\\Todo_School_Project.csproj|solutionrelative:todo_school_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 210,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\Form1.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\Form1.cs",
+              "RelativeToolTip": "Todo_School_Project\\Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T10:52:49.094Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\DataStore.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\DataStore.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\DataStore.cs",
+              "RelativeToolTip": "Todo_School_Project\\DataStore.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T05:33:21.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\DashboardForm.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\DashboardForm.cs",
+              "RelativeToolTip": "Todo_School_Project\\DashboardForm.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAA4wNMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T05:02:06.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\Program.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\Program.cs",
+              "RelativeToolTip": "Todo_School_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T04:43:52.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboardForm.Designer.cs",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\AdminDashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\AdminDashboardForm.Designer.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\AdminDashboardForm.Designer.cs",
+              "RelativeToolTip": "Todo_School_Project\\AdminDashboardForm.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T04:25:08.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\DashboardForm.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "Todo_School_Project\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T03:55:36.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\AdminDashboardForm.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\AdminDashboardForm.cs",
+              "RelativeToolTip": "Todo_School_Project\\AdminDashboardForm.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAmwKwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T03:49:48.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\AdminDashboardForm.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\AdminDashboardForm.cs [Design]",
+              "RelativeToolTip": "Todo_School_Project\\AdminDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T03:45:46.663Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\User.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\User.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\User.cs",
+              "RelativeToolTip": "Todo_School_Project\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T03:33:18.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\LoginForm.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Todo_School_Project\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T15:57:26.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\Form1.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Todo_School_Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T12:01:00.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Todo_School_Project\\LoginForm.cs",
+              "ToolTip": "D:\\Kyaw Zay Ya Written Project\\C#Project\\Todo_School_Project\\Todo_School_Project\\LoginForm.cs",
+              "RelativeToolTip": "Todo_School_Project\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T10:37:34.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
